@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Alen 👋
 
-<!--
-**codewithAlen/codewithAlen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 High School Student  
+💻 Learning Python  
+📊 Interested in Data Science & AI  
 
-Here are some ideas to get you started:
+## 🚀 What I'm Doing
+- Practicing Python through small programs  
+- Building beginner projects  
+- Learning step by step  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- Student Marks Analyzer (Python)  
+- Chatbot (Team Project)  
+
+## 📈 Goals
+- Improve programming skills  
+- Build real-world projects  
+- Learn advanced Python & AI  
+
+---
+
+⭐ Always learning and improving
